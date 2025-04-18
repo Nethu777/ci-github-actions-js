@@ -1,2 +1,2 @@
-# ci-github-actions-js
-Simple JavaScript project with CI using GitHub Actions and Jest
+git clone https://github.com/Nethu777/ci-github-actions-js.git
+cd ci-github-actions-js
